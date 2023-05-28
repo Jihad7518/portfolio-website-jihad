@@ -12,4 +12,13 @@
   --bgOrange: #e84949;
 }
 
+#wrapper{
+    height:100vh;
+    overflow-y:auto;
+    overflow-x: hidden;
+}
 
+.container{
+    width:1200px;
+    margin:0 auto;
+}
