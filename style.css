@@ -40,3 +40,16 @@
     justify-content: baseline;
     align-items: center;
 }
+
+.logo-text{
+    margin-left:-1.6rem;
+    font-size:43px;
+    user-select: none;
+}
+
+.nav-items{
+    display:flex;
+    gap:2rem;
+    padding: 0 4em;
+}
+
