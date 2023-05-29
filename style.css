@@ -155,3 +155,20 @@ a{
     transform-origin: left;
     transition: all 0.8s;
 }
+
+.btn-pink:hover::before {
+    transform: scaleX(1);
+}
+
+.btn-pink:hover {
+    border: solid 3px var(--bgOrange);
+    color: black;
+}
+
+.hero-section-right{
+    position:relative;
+}
+
+.absolute{
+    position:absolute;
+}
