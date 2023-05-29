@@ -96,3 +96,23 @@ a{
     font-weight: bold;
     transition: all 3s;
 }
+
+.hero-section-left{
+    /* width:100%; */
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    gap: 2rem;
+}
+
+.hero-section-heading{
+    font-size: 35px;
+    color: #343d68;
+    font-weight: 500;
+}
+
+.role{
+    color: #4e45d5;
+    font-weight: 800;
+}
+
