@@ -265,3 +265,19 @@ a{
     }
  
   }
+
+  .icon-zigzag{
+    z-index:9;
+    top:1.5em;
+    left:-0.3em;
+    animation:zigzagAnimation 5s ease-in infinite;
+  }
+
+  @keyframes zigzagAnimation{
+    50%{
+        left:5%;
+        top:2%;
+    }
+  }
+
+
