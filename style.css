@@ -435,4 +435,21 @@ a{
   border: none;
 }
 
+.icon{
+  cursor: pointer;
+  color: white;
+  font-size: 35px;
+  transition: all 0.4s;
+}
 
+.icon:hover{
+  color:var(--bgOrange);
+}
+
+.project-card:hover .project-content{
+  transform:scale(1.1);
+}
+
+#project1{
+  background-image: url(./images/projects/Project1.png);
+}
