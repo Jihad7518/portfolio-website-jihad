@@ -397,3 +397,24 @@ a{
   left:10%;
 }
 
+.project-content-right{ 
+  right:10%;
+}
+
+.project-skills-container{
+  width:60%;
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+
+}
+
+.project-skill{
+  width:40px;
+}
+
+.project-heading{
+  font-size:50px;
+  font-weight: bold;
+  line-height:3rem;
+}
