@@ -376,3 +376,24 @@ a{
   top:-45px;
 }
 
+.project-card:hover .project-number{
+  /* display:block; */
+  opacity: 1;
+}
+
+.project-content{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  padding: 2em;
+  bottom: 20%;
+  z-index: 5;
+  gap: 1em;
+  transition: all 0.5s;
+}
+
+.project-content-left{ 
+  left:10%;
+}
+
