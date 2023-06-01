@@ -493,4 +493,20 @@ a{
     right: 0;
     top: 0;
   }
+  .project-content-left {
+    left: 0;
+  }
+  .project-heading {
+    font-size: 40px;
+    width: 100%;
+  }
+  .project-sub-heading {
+    width: 100%;
+  }
+  #project2 {
+    margin-left: 0;
+  }
+  #project4 {
+    margin-left: 0;
+  }
 }
