@@ -651,4 +651,19 @@ a{
   margin-top:27px;
 }
 
+.formfield-textarea{
+  height:auto;
+  padding-top:1rem;
+}
+
+#submit-btn{
+  border:none;
+  font-size: 1.4rem;
+  margin: 1rem 0;
+}
+
+#submit-btn:hover{
+  scale:0.9;
+}
+
 
