@@ -593,4 +593,19 @@ a{
   font-size:90px;
 }
 
+.skill-subHeading{
+  margin-top: 1rem;
+  width:85%;
+  text-align: justify;
+}
+
+.skill-subHeading p{
+  margin:15px 0;
+}
+
+.contactus-form-container{
+  width:100%;
+  background-color: rgb(231,231,231);
+}
+
 
