@@ -705,4 +705,8 @@ footer{
   transition:all 0.6s;
 }
 
+.link-wrapper div a:hover{
+  color:var(--bgOrange);
+}
+
 
