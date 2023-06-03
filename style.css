@@ -68,6 +68,7 @@ a{
     text-decoration: none;
 }
 
+
 .nav-items div:hover{
     transition:0.8s;
     font-weight: bold;
@@ -141,7 +142,6 @@ a{
     position: relative;
     z-index: 1;
 }
-
 .btn-pink::before {
     content: "";
     position: absolute;
@@ -204,6 +204,7 @@ a{
   }
     
 }
+
 
   .icon-dots{
     z-index:9;
@@ -279,7 +280,7 @@ a{
         top:2%;
     }
   }
-
+  
   .icon-plus{
     z-index:9;
     top:-0.8rem;
@@ -713,3 +714,4 @@ footer{
   display:flex;
   gap:1rem;
 }
+
